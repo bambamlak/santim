@@ -12,6 +12,12 @@ A premium, open-source personal finance and budgeting application built with Flu
 
 ## Setup & Run
 
+**-Download and install the app from releases page**
+
+
+
+**-Or build from source:**
+
 ### Prerequisites
 - Flutter SDK (latest stable version recommended)
 - Dart SDK
