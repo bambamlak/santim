@@ -11,12 +11,12 @@ A premium, open-source personal finance and budgeting application built with Flu
 - **Customizable Theming**: Full support for dark mode, AMOLED pure black mode, and multiple color seed palettes.
 
 ## Setup & Run
-
-**-Download and install the app from releases page**
-
+-You can download and install the app from releases page
 
 
-**-Or build from source:**
+
+
+**Build from source:**
 
 ### Prerequisites
 - Flutter SDK (latest stable version recommended)
